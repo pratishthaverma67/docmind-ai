@@ -6,7 +6,7 @@ An AI-powered Document Assistant built with **Python**, **Streamlit**, and **Hug
 
 ## 🚀 Live Demo
 
-httpswwwdocmind-ai-wxbmltzvsrvopqxaxwzqkw.streamlit.app
+[httpswwwdocmind-ai-wxbmltzvsrvopqxaxwzqkw.streamlit.app](https://httpswwwdocmind-ai-wxbmltzvsrvopqxaxwzqkw.streamlit.app/)
 
 ---
 
